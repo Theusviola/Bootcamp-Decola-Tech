@@ -1,0 +1,14 @@
+C:\Users\Matheus\OneDrive\Documentos\Bootcamp Decola Tech\Exemplodefundamentos\appcenter-test\bin\Debug\net8.0\appcenter-test.exe
+C:\Users\Matheus\OneDrive\Documentos\Bootcamp Decola Tech\Exemplodefundamentos\appcenter-test\bin\Debug\net8.0\appcenter-test.deps.json
+C:\Users\Matheus\OneDrive\Documentos\Bootcamp Decola Tech\Exemplodefundamentos\appcenter-test\bin\Debug\net8.0\appcenter-test.runtimeconfig.json
+C:\Users\Matheus\OneDrive\Documentos\Bootcamp Decola Tech\Exemplodefundamentos\appcenter-test\bin\Debug\net8.0\appcenter-test.dll
+C:\Users\Matheus\OneDrive\Documentos\Bootcamp Decola Tech\Exemplodefundamentos\appcenter-test\bin\Debug\net8.0\appcenter-test.pdb
+C:\Users\Matheus\OneDrive\Documentos\Bootcamp Decola Tech\Exemplodefundamentos\appcenter-test\obj\Debug\net8.0\appcenter-test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\OneDrive\Documentos\Bootcamp Decola Tech\Exemplodefundamentos\appcenter-test\obj\Debug\net8.0\appcenter-test.AssemblyInfoInputs.cache
+C:\Users\Matheus\OneDrive\Documentos\Bootcamp Decola Tech\Exemplodefundamentos\appcenter-test\obj\Debug\net8.0\appcenter-test.AssemblyInfo.cs
+C:\Users\Matheus\OneDrive\Documentos\Bootcamp Decola Tech\Exemplodefundamentos\appcenter-test\obj\Debug\net8.0\appcenter-test.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\OneDrive\Documentos\Bootcamp Decola Tech\Exemplodefundamentos\appcenter-test\obj\Debug\net8.0\appcenter-test.dll
+C:\Users\Matheus\OneDrive\Documentos\Bootcamp Decola Tech\Exemplodefundamentos\appcenter-test\obj\Debug\net8.0\refint\appcenter-test.dll
+C:\Users\Matheus\OneDrive\Documentos\Bootcamp Decola Tech\Exemplodefundamentos\appcenter-test\obj\Debug\net8.0\appcenter-test.pdb
+C:\Users\Matheus\OneDrive\Documentos\Bootcamp Decola Tech\Exemplodefundamentos\appcenter-test\obj\Debug\net8.0\appcenter-test.genruntimeconfig.cache
+C:\Users\Matheus\OneDrive\Documentos\Bootcamp Decola Tech\Exemplodefundamentos\appcenter-test\obj\Debug\net8.0\ref\appcenter-test.dll

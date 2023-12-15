@@ -1,0 +1,14 @@
+C:\Users\Matheus\OneDrive\Documentos\Bootcamp Decola Tech\Exemplodefundamentos\bin\Debug\net8.0\Exemplodefundamentos.exe
+C:\Users\Matheus\OneDrive\Documentos\Bootcamp Decola Tech\Exemplodefundamentos\bin\Debug\net8.0\Exemplodefundamentos.deps.json
+C:\Users\Matheus\OneDrive\Documentos\Bootcamp Decola Tech\Exemplodefundamentos\bin\Debug\net8.0\Exemplodefundamentos.runtimeconfig.json
+C:\Users\Matheus\OneDrive\Documentos\Bootcamp Decola Tech\Exemplodefundamentos\bin\Debug\net8.0\Exemplodefundamentos.dll
+C:\Users\Matheus\OneDrive\Documentos\Bootcamp Decola Tech\Exemplodefundamentos\bin\Debug\net8.0\Exemplodefundamentos.pdb
+C:\Users\Matheus\OneDrive\Documentos\Bootcamp Decola Tech\Exemplodefundamentos\obj\Debug\net8.0\Exemplodefundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\OneDrive\Documentos\Bootcamp Decola Tech\Exemplodefundamentos\obj\Debug\net8.0\Exemplodefundamentos.AssemblyInfoInputs.cache
+C:\Users\Matheus\OneDrive\Documentos\Bootcamp Decola Tech\Exemplodefundamentos\obj\Debug\net8.0\Exemplodefundamentos.AssemblyInfo.cs
+C:\Users\Matheus\OneDrive\Documentos\Bootcamp Decola Tech\Exemplodefundamentos\obj\Debug\net8.0\Exemplodefundamentos.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\OneDrive\Documentos\Bootcamp Decola Tech\Exemplodefundamentos\obj\Debug\net8.0\Exemplodefundamentos.dll
+C:\Users\Matheus\OneDrive\Documentos\Bootcamp Decola Tech\Exemplodefundamentos\obj\Debug\net8.0\refint\Exemplodefundamentos.dll
+C:\Users\Matheus\OneDrive\Documentos\Bootcamp Decola Tech\Exemplodefundamentos\obj\Debug\net8.0\Exemplodefundamentos.pdb
+C:\Users\Matheus\OneDrive\Documentos\Bootcamp Decola Tech\Exemplodefundamentos\obj\Debug\net8.0\Exemplodefundamentos.genruntimeconfig.cache
+C:\Users\Matheus\OneDrive\Documentos\Bootcamp Decola Tech\Exemplodefundamentos\obj\Debug\net8.0\ref\Exemplodefundamentos.dll
