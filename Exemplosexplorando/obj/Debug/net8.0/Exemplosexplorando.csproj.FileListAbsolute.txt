@@ -1,0 +1,15 @@
+C:\Users\Matheus\OneDrive\Documentos\Bootcamp Decola Tech\Exemplosexplorando\bin\Debug\net8.0\Exemplosexplorando.exe
+C:\Users\Matheus\OneDrive\Documentos\Bootcamp Decola Tech\Exemplosexplorando\bin\Debug\net8.0\Exemplosexplorando.deps.json
+C:\Users\Matheus\OneDrive\Documentos\Bootcamp Decola Tech\Exemplosexplorando\bin\Debug\net8.0\Exemplosexplorando.runtimeconfig.json
+C:\Users\Matheus\OneDrive\Documentos\Bootcamp Decola Tech\Exemplosexplorando\bin\Debug\net8.0\Exemplosexplorando.dll
+C:\Users\Matheus\OneDrive\Documentos\Bootcamp Decola Tech\Exemplosexplorando\bin\Debug\net8.0\Exemplosexplorando.pdb
+C:\Users\Matheus\OneDrive\Documentos\Bootcamp Decola Tech\Exemplosexplorando\obj\Debug\net8.0\Exemplosexplorando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\OneDrive\Documentos\Bootcamp Decola Tech\Exemplosexplorando\obj\Debug\net8.0\Exemplosexplorando.AssemblyInfoInputs.cache
+C:\Users\Matheus\OneDrive\Documentos\Bootcamp Decola Tech\Exemplosexplorando\obj\Debug\net8.0\Exemplosexplorando.AssemblyInfo.cs
+C:\Users\Matheus\OneDrive\Documentos\Bootcamp Decola Tech\Exemplosexplorando\obj\Debug\net8.0\Exemplosexplorando.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\OneDrive\Documentos\Bootcamp Decola Tech\Exemplosexplorando\obj\Debug\net8.0\Exemplosexplorando.sourcelink.json
+C:\Users\Matheus\OneDrive\Documentos\Bootcamp Decola Tech\Exemplosexplorando\obj\Debug\net8.0\Exemplosexplorando.dll
+C:\Users\Matheus\OneDrive\Documentos\Bootcamp Decola Tech\Exemplosexplorando\obj\Debug\net8.0\refint\Exemplosexplorando.dll
+C:\Users\Matheus\OneDrive\Documentos\Bootcamp Decola Tech\Exemplosexplorando\obj\Debug\net8.0\Exemplosexplorando.pdb
+C:\Users\Matheus\OneDrive\Documentos\Bootcamp Decola Tech\Exemplosexplorando\obj\Debug\net8.0\Exemplosexplorando.genruntimeconfig.cache
+C:\Users\Matheus\OneDrive\Documentos\Bootcamp Decola Tech\Exemplosexplorando\obj\Debug\net8.0\ref\Exemplosexplorando.dll
